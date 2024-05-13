@@ -1,22 +1,66 @@
+<style>
+    .intro {color: #b6e7ff;}
+    .facile{color: #d9ffb7;}
+    .moyen{color: #fff5b7;}
+</style>
 
 <div align="center">
     <img src="404ctf_logo.png" style="width: 40%">
     <h1 style=>404CTF - 2024 </h1>
     <p>
-        Hello, this is my first CTF, I'll add write-ups when the competition is over. 
+        Bonjour, le 404CTF est mon premier CTF et voici mes Writeups sur les épreuves où j'ai trouvé le flag.  
     </p>
     <p><i>
-        Bonjour, c'est mon premier CTF, j'ajouterai des writes-ups lorsque la compétition sera terminée.  
+        Hello, 404CTF is my first CTF and here are my Writeups on the challenges where I found the flag.
     </i></p>
     <br />
+    <img src="classement.png" style="width: 40%">
+    <br />
+    <h3>Classement : 407/3271</h3>
 </div>
-    <h1>Categories</h1>
-    <h2>Miscellaneous</h2>
-    <h2>Cryptanalysis</h2>
+    <h1>Catégories</h1>
+    <h2>Divers</h2>
+    <ul>
+        <li><a href="./Divers/Discord/Readme.md"><span class="intro">Introduction</span> - Discord</a></li>
+        <li><a href="./Divers/Bienvenue/Readme.md"><span class="intro">Introduction</span> - Bienvenue</a></li>
+    </ul>
+    <h2>Cryptanalyse</h2>
+    <ul>
+        <li><a href="./Cryptanalyse/Bébé_nageur/Readme.md"><span class="intro">Introduction</span> - Bébé nageur - TODO</a></li>
+    </ul>
+    <h2>Exploitation de binaires</h2>
+    <ul>
+        <li><a href="./Exploitation_de_binaires/Pseudoverflow/Readme.md"><span class="intro">Introduction</span> - Pseudoverflow</a></li>
+    </ul>
     <h2>Web</h2>
-    <h2>Digital investigation</h2>
-    <h2>Steganography</h2>
-    <h2>Open source intelligence</h2>
+    <ul>
+        <li><a href="./Web/Vous_êtes_en_RETARD/"><span class="intro">Introduction</span> - Vous êtes en RETARD</a></li>
+        <li><a href="./Web/Le_match_du_siècle_1-2/"><span class="intro">Introduction</span> - Le match du siècle [1/2]</a></li>
+        <li><a href="./Web/Le_match_du_siècle_2-2/"><span class="moyen">Moyen</span> - Le match du siècle [2/2]</a></li>
+    </ul>
+    <h2>Investigation numérique</h2>
+    <ul>
+        <li><a href="./Investigation_numérique/Le_tir_aux_logs/"><span class="intro">Introduction</span> - Le tir aux logs - TODO</a></li>
+        <li><a href="./Investigation_numérique/Coup_de_circuit_1-3/"><span class="facile">Facile</span> - Coup de circuit [1/3]</a></li>
+    </ul>
+    <h2>Stéganographie</h2>
+    <ul>
+        <li><a href="./Stéganographie/L_absence/"><span class="intro">Introduction</span> - L'absence - TODO</a></li>
+        <li><a href="./Stéganographie/Regarder_en_stéréo/"><span class="facile">Facile</span> - Regarder en stéréo  - TODO</a></li>
+    </ul>
+    <h2>Rétro Ingénierie</h2>
+    <ul>
+        <li><a href="./Rétro_Ingénierie/Échauffement/"><span class="intro">Introduction</span> - Échauffement - TODO</a></li>
+        <li><a href="./Rétro_Ingénierie/Intronisation du CHAUSSURE/"><span class="facile">Facile</span> - Intronisation du CHAUSSURE - TODO</a></li>
+        <li><a href="./Rétro_Ingénierie/Bugdroid Fight_1-2/"><span class="facile">Facile</span> - Bugdroid Fight [1/2] - TODO</a></li>
+    </ul>
+    <h2>Renseignement en sources ouvertes</h2>
+    <ul>
+        <li><a href="./Renseignement_en_sources_ouvertes/Légende/Readme"><span class="intro">Introduction</span> - Légende - TODO</a></li>
+        <li><a href="./Renseignement_en_sources_ouvertes/Not_on_my_watch/Readme.md"><span class="facile">Facile</span> - Not on my watch</a></li>
+        <li><a href="./Renseignement_en_sources_ouvertes/Coup_de_circuit_2-3/"><span class="facile">Facile</span> - Coup de circuit [2/3]</a></li>
+    </ul>
+
 </div>
 
 
