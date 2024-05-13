@@ -1,7 +1,7 @@
-<h1></h1>
-<h3> - <b>pts.</b></h3> 
+<h1>Coup de circuit [2/3]</h1>
+<h3>Facile - <b>200 pts.</b></h3> 
 <p>
-<b>Suite du challenge x</b>
+<b>Suite du challenge <a href="../../Investigation_numérique/Coup_de_circuit_1-3/">Coup de circuit [1/3]</a></b>
 
 <i>Le challenge suivant sera disponible dans la catégorie Divers une fois que vous aurez validé celui-ci.</i>
  
@@ -15,7 +15,7 @@ Le flag y sera reconnaissable.
 
 Auteurs : @<b>Smyler</b></p>
 
-</hr>
+<hr>
 
 <h3>Solution</h3>
 
