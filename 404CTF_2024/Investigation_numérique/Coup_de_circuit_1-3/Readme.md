@@ -2,13 +2,18 @@
 <h3>Facile - <b>200pts.</b></h3> 
 <p><i>Ce challenge est le premier d'une série de trois challenges faciles. Le challenge suivant sera disponible dans la catégorie Renseignement en sources ouvertes une fois que vous aurez validé celui-ci.</i>
  
-<p>Vous voilà devant le stade pour voir le dernier match de votre équipe préférée, le Gorfou FC !
-Malheureusement, vous êtes arrivé.e en retard et l'entrée est fermée... Mais pas de panique, il vous suffit de trouver un moyen pour quand même rentrer !
+C'est la catastrophe ! Je me prépare pour mon prochain match de baseball, mais on m'a volé mon mojo ! Sans lui, je vais perdre, c'est certain... Je crois qu'on m'a eu en me faisant télécharger un virus ou je ne sais quoi, et le fichier a été supprimé de mon ordinateur. J'ai demandé de l'aide à un ami expert et il a extrait des choses du PC, mais il n'a pas le temps d'aller plus loin. Vous pourriez m'aider ?
 
-Auteurs : @<b>Asumamusa</b></p>
+Auteurs : @<b>Smyler</b></p>
 
 <hr>
 
+Identifiez le malware et donnez son condensat sha1. Le flag est au format suivant : `404CTF{sha1}`.
+
+Fichier :
+<a href="Collection.zip">Collection.zip</a> _(MD5 : `b018d1f191cb506275ea3ff6820a2065`)_
+
+<hr>
 
 <h3>Solution</h3>
 
