@@ -45,7 +45,7 @@
     <h2>Rétro Ingénierie</h2>
     <ul>
         <li><a href="./Rétro_Ingénierie/Échauffement/Readme.md"><span style="color: #b6e7ff;">Introduction</span> - Échauffement</a></li>
-        <li><a href="./Rétro_Ingénierie/Intronisation du CHAUSSURE/"><span style="color: #d9ffb7">Facile</span> - Intronisation du CHAUSSURE - TODO</a></li>
+        <li><a href="./Rétro_Ingénierie/Intronisation du CHAUSSURE/Readme.md"><span style="color: #d9ffb7">Facile</span> - Intronisation du CHAUSSURE</a></li>
         <li><a href="./Rétro_Ingénierie/Bugdroid Fight_1-2/Readme.md"><span style="color: #d9ffb7">Facile</span> - Bugdroid Fight [1/2]</a></li>
     </ul>
     <h2>Renseignement en sources ouvertes</h2>
