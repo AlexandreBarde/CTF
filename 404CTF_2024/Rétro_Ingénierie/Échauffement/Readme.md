@@ -1,5 +1,5 @@
-<h1></h1>
-<h3> - <b>pts.</b></h3> 
+<h1>Échauffement</h1>
+<h3>Introduction - <b>100pts.</b></h3> 
 <p>Un bon échauffement permet non seulement d'éviter des blessures, mais aussi de conditionner son corps et son esprit au combat qui va suivre. Ce crackme devrait constituer un exercice adéquat.
 
 Auteurs : @<b>Izipak (_hdrien)</b></p>
