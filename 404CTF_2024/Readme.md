@@ -39,8 +39,8 @@
     </ul>
     <h2>Stéganographie</h2>
     <ul>
-        <li><a href="./Stéganographie/L_absence/"><span style="color: #b6e7ff;">Introduction</span> - L'absence - TODO</a></li>
-        <li><a href="./Stéganographie/Regarder_en_stéréo/"><span style="color: #d9ffb7">Facile</span> - Regarder en stéréo  - TODO</a></li>
+        <li><a href="./Stéganographie/L_absence/Readme.md"><span style="color: #b6e7ff;">Introduction</span> - L'absence</a></li>
+        <li><a href="./Stéganographie/Regarder_en_stéréo/Readme.md"><span style="color: #d9ffb7">Facile</span> - Regarder en stéréo</a></li>
     </ul>
     <h2>Rétro Ingénierie</h2>
     <ul>

@@ -1,10 +1,18 @@
-<h1></h1>
-<h3> - <b>pts.</b></h3> 
-<p>
+<h1>Regarder en stéréo</h1>
+<h3>Facile - <b>200pts.</b></h3> 
+<p>Ça y est, c'est le grand jour!
 
-Auteurs : @<b></b> & @<b></b></p>
+Vous avez enfin atteint le niveau professionnel et, il faut faire vos preuves lors de cette première compétition. Le début de votre enchaînement gymnastique se déroule bien jusqu'à ce que votre plus grande peur se réalise. Une mauvaise réception en amenant une autre, vous ne contrôlez plus votre élan et tentez de vous rattraper tant bien que mal. Malheureusement, vous finissez par atterrir un peu trop loin en dehors des tapis.
+ 
+Voici la dernière vision que vous avez avant de heurter le sol, est-ce que quelque chose peut encore vous aider?
 
-</hr>
+Auteurs : @<b>HgAt</b></p>
+
+Fichiers :
+
+<a href="./image.png">image.png</a>
+
+<hr>
 
 <h3>Solution</h3>
 
